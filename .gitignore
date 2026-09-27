@@ -1,0 +1,22 @@
+# Generated build stages and diagnostic output
+/checkpoints/
+/renders/milestones/
+/reports/logs/
+__pycache__/
+*.py[cod]
+*.blend[0-9]*
+*.log
+
+# Local reference material and production briefs
+/references/
+/docs/IMPLEMENTATION_PLAN.md
+/docs/Codex Handoff*.md
+
+# Local environment and editor files
+.env
+.env.*
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,39 @@
+[
+  {
+    "file": "resin_printer_complete.glb",
+    "bytes": 40301860,
+    "nodes": 1642,
+    "meshes": 1615,
+    "materials": 24,
+    "animations": 0,
+    "checks": {},
+    "errors": [],
+    "max_world_matrix_error": 2.384185791015625e-07,
+    "max_bounds_error_m": 1.4901161193847656e-08,
+    "normal_checks": {
+      "nonfinite": 0,
+      "nonunit": 0
+    },
+    "triangle_count": 934388,
+    "passed": true
+  },
+  {
+    "file": "resin_printer_explodable.glb",
+    "bytes": 40485840,
+    "nodes": 1642,
+    "meshes": 1615,
+    "materials": 24,
+    "animations": 1,
+    "checks": {},
+    "errors": [],
+    "max_world_matrix_error": 2.384185791015625e-07,
+    "max_bounds_error_m": 1.4901161193847656e-08,
+    "normal_checks": {
+      "nonfinite": 0,
+      "nonunit": 0
+    },
+    "triangle_count": 934388,
+    "max_exploded_matrix_error": 2.384185791015625e-07,
+    "passed": true
+  }
+]

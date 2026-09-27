@@ -1,0 +1,201 @@
+{
+  "files": [
+    {
+      "path": "resin_printer_master.blend",
+      "bytes": 5244473,
+      "sha256": "764790cec621eda997def49be01fc75bc129792610adc680c72aa914767d72cb"
+    },
+    {
+      "path": "exports/resin_printer_complete.glb",
+      "bytes": 40301860,
+      "sha256": "78fec52d59a21f2e0b34aa97109191190e17d83fc0550ebd9d87b4b366f0b25f",
+      "nodes": 1642,
+      "meshes": 1615,
+      "animations": 0
+    },
+    {
+      "path": "exports/resin_printer_explodable.glb",
+      "bytes": 40485840,
+      "sha256": "8070c53cd3ec7af083548123f85d85896e3fb4de2155c35c8b8ff6272b6676f9",
+      "nodes": 1642,
+      "meshes": 1615,
+      "animations": 1
+    },
+    {
+      "path": "renders/01_complete_hero.png",
+      "bytes": 4332509,
+      "sha256": "87b4c397c833065fdfe60bdca4d4fb6c6fb835f1fddde75705bd1833341ecbcc",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/02_front.png",
+      "bytes": 4135835,
+      "sha256": "45523849dde6ee1aff956c4ddb2b33c657bc0e1f7390aebed64200e5d74d65ba",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/03_back.png",
+      "bytes": 4234282,
+      "sha256": "95d68f2d3e684065dcc358485dcf3770bfb337b004bdfb7539018dd719366142",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/04_internal_no_panels.png",
+      "bytes": 4600408,
+      "sha256": "a2510dc8951bbd51e6990a2ea35d6341b2fb2a5ff9abc39f99e6082f5e630841",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/05_exploded_full.png",
+      "bytes": 4449656,
+      "sha256": "a2945fc11dcad45e97098647a433dada6f95ce7cf46f65785af99ef63e6d31dc",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/06_build_plate_closeup.png",
+      "bytes": 4016630,
+      "sha256": "bb3d759fc559f892b1930bdee0c5999a7456e7233d24439efe871f7e865543b3",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/07_vat_closeup.png",
+      "bytes": 4108281,
+      "sha256": "407986fab2a5d9b776704a8f744c535a24d9f9d5f367da0709d4f21f8e116774",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/08_lcd_stack_exploded.png",
+      "bytes": 4052421,
+      "sha256": "18ff0c78aab0cc71135cfd85fe9b31dc28dec6490d8cf6c6e0f41508030874b9",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/09_light_engine_exploded.png",
+      "bytes": 4103701,
+      "sha256": "8bd6600c7670ab363de86f9764523b7ca776b3a3fb8213b507b61abca513cc98",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/10_z_axis_closeup.png",
+      "bytes": 4055045,
+      "sha256": "73b43077229da49ef90640efcbf5c7615bcfc08141aa77e6bb58f8d63bc6bba5",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/11_electronics_closeup.png",
+      "bytes": 3987181,
+      "sha256": "4ea786216df4f33717aa98cdc6018d94c1a77b7b5c7ea3008a9c833477dfbac8",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/12_cutaway.png",
+      "bytes": 4691416,
+      "sha256": "48d17d719104056ed089e15926eb6f63d9ccf16dede49c7b6154bf870f730ffb",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/13_side.png",
+      "bytes": 4158873,
+      "sha256": "d32dc944d14b14df2c773727623e2291a49ee760a32c801c266242f9db7d4faf",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "renders/14_top.png",
+      "bytes": 4061477,
+      "sha256": "ac82765189f8c0062f742a4767da7f044ec42733f350b9ae0f6b305354a90972",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "path": "exports/build_plate.glb",
+      "bytes": 2051160,
+      "sha256": "8537c4e4581b507f1cf5f303140daa14e3eb988988bef623961f8aee82a92c7d",
+      "nodes": 84,
+      "meshes": 82,
+      "animations": 0
+    },
+    {
+      "path": "exports/resin_vat.glb",
+      "bytes": 2290816,
+      "sha256": "c66169cc5ffffd4e7cb2879adeff0a654166ee308e8e0395fd0383c0f3a95238",
+      "nodes": 86,
+      "meshes": 84,
+      "animations": 0
+    },
+    {
+      "path": "exports/lcd_stack.glb",
+      "bytes": 791100,
+      "sha256": "ccc62abb3a0dface8714906c1ff03ddb38e54622cc237c815be55824b2f7e49a",
+      "nodes": 43,
+      "meshes": 41,
+      "animations": 0
+    },
+    {
+      "path": "exports/z_axis.glb",
+      "bytes": 5436228,
+      "sha256": "fa4db5e05fb9f1fd920537d58e65b3eff595319088997e78b5b3014cc1be6a89",
+      "nodes": 63,
+      "meshes": 61,
+      "animations": 0
+    },
+    {
+      "path": "exports/uv_light_engine.glb",
+      "bytes": 10374424,
+      "sha256": "0c21c69c690b3a6d96e671cc4161dc48cc0c82da8b3d66f326b96bbd72f3b092",
+      "nodes": 577,
+      "meshes": 575,
+      "animations": 0
+    },
+    {
+      "path": "exports/electronics.glb",
+      "bytes": 6573828,
+      "sha256": "0fcae4dfee7e72eec6532b6cb25bb93c5b8b3d078185abfc40817550a0417efa",
+      "nodes": 423,
+      "meshes": 418,
+      "animations": 0
+    }
+  ],
+  "all_required_files_present": true,
+  "roundtrip_passed": true
+}
